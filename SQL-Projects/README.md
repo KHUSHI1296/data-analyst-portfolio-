@@ -38,10 +38,9 @@ Tables used:
 
 
 ## Files in this Repository
-- `chinook_sql_practice.sql` → All SQL queries used in this project
+- `SQL queries.sql` → All SQL queries practiced 
 - `README.md` → Project documentation
-
----
+- 'chinook_analysis' → All SQL queries used in the project
 
 ## Tools Used
 - MySQL
