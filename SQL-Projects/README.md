@@ -40,7 +40,7 @@ Tables used:
 ## Files in this Repository
 - `SQL queries.sql` → All SQL queries practiced 
 - `README.md` → Project documentation
-- 'chinook_analysis' → All SQL queries used in the project
+- 'chinook_analysis.sql' → All SQL queries used in the project
 
 ## Tools Used
 - MySQL
